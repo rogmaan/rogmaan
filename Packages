@@ -1,0 +1,16 @@
+Package: com.rogmaan.flora
+Name: Flora
+Author: rogman
+Version: 1.0-1
+Architecture: iphoneos-arm
+Filename: debfiles//Flora.deb
+Size: 5424152
+MD5sum: d4f707e20da0dcc4daa5f1eda1b55be8
+SHA1: e0ba419c22d4bfed3de2a75fd7364fbd5c480d28
+SHA256: 637f6b9c69d19c701291f26295f015fc2384e37218a073d3196ed83ca4136954
+SHA512: 506b5a7c52426c57e0e54df47af99e023dcc24921b5b3e41520d28116647f2cd
+Description: flora
+Homepage: https://www.rogmaan.com/
+Maintainer: rogmaan <rogmaan@outlook.com>
+Section: Development
+Depiction: https://rogmaan.github.io/rogmaan/depic/flora.html
